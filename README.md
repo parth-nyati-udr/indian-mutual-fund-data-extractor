@@ -1,4 +1,4 @@
-# fund-data-extractors
+# Indian Mutual Fund Data Extractor
 
 Mutual fund disclosures are public but awkward to get at: JavaScript-rendered AMC sites, XLSX files with banner rows and merged cells, and PDF factsheets that are sometimes a month stale. This package turns them into clean tables.
 
